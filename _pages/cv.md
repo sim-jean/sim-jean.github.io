@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, AgroParisTech - Université Paris Saclay (2021-2024)
+* M.S. Analysis and Policy in Economics, Paris School of Economics (2020)
+* M.S. in Social Sciences, Ecole Normale Supérieure Paris Saclay (2020)
+* B.A. in Sociology - Université Sorbonne Paris IV (2017)
+* B.S. in Economics (mention Econometrics) - Magistère d'Economie de la Sorbonne, Université Paris I (2016)
 
 Work experience
 ======
