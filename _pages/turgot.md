@@ -2,6 +2,7 @@
 layout: page
 title: "CPGE D2"
 permalink: /teaching/turgot/
+author_profile: true
 ---
 
 Here's a selection of colles, and tutorials I've taught at Lycée Turgot (in French)
