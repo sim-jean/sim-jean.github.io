@@ -22,4 +22,4 @@ An introductory class to economics covering both micro (consumer and producer th
 An introductory class, focusing on imperfect competition (e.g. welfare effects, pricing strategies) and game theory (Nash equilibria, subgame and subgame perfect equilibrium) and application to oligopolies (strategic complements and substitutes, pass through, Bertrand and Cournot equilibria), with a final lecture on European competition law. 
 
 ### Introductory and Intermediate Microeconomics - Preparatory Classes D2 @ Lycée Turgot
-Teaching assistant and examiner. You can find examples of "colles" and tutorials for both years [here](https://sim-jean.github.io/_pages/turgot.md)
+Teaching assistant and examiner. You can find examples of "colles" and tutorials for both years [here](https://sim-jean.github.io/teaching/turgot.md)
