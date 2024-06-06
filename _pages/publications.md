@@ -30,7 +30,7 @@ Fuel treatment operations reduce wildfire spread but fragment wildlife habitats,
 
 [Article]('http://sim-jean.github.io/files/research/jean_mouysset2022.pdf') [Code](https://github.com/sim-jean/Landscape_connectivity_dilemma)
 
-**Substantial gains and little downside from farming of *Totoaba Macdonaldi* **, submitted
+**Substantial gains and little downside from farming of Totoaba Macdonaldi **, submitted
 
 *Lawson, Julia M. and Jean, Simon (co first authors)*; Steinkruger, Andrew; Castellanos-Rico, Miguel; Goto, Garrett M.; Cisneros-Mata, Miguel Angel; Aceves-Bueno, Erendira; Warham, Matthew M.; Sachs, Adam M.; Gaines, Steven D.
 
