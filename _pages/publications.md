@@ -12,6 +12,7 @@ author_profile: true
 ## Published work
 
 **Bioeconomic Models for Terrestrial Social Ecological System Management : A review**, *International Review of Environmental and Resource Economics*, 2021
+
 Jean, Simon and Mouysset, Lauriane
 
 We analyze 319 bioeconomic models for terrestrial habitats, organized into four groups via multiple correspondence analysis and clustering. Two focus on conservation: one on cost-effective species preservation without monetization, the other on habitat-based measures in agriculture and forestry. The other two address biodiversity monetization and harvesting, including endangered and invasive species.
@@ -22,6 +23,7 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 ## Working Papers
 
 **The wildland connectivity dilemma : a graph theoretical computational approach**
+
 Jean, Simon and Mouysset, Lauriane
 
 Fuel treatment operations reduce wildfire spread but fragment wildlife habitats, posing a trade-off for land managers. Using dynamic programming and graph theory, we analyzed treatment allocation across landscapes, finding optimal strategies that balance wildfire risk reduction and habitat connectivity. Increased budgets reduce risk but have diminishing returns. Prioritizing treatment of central cells and varying seral stages enhances landscape diversity, mitigating risk while preserving habitat connectivity.
