@@ -7,7 +7,7 @@ date: 2021-01-01
 venue: 'International Review of Environmental and Resource Economics'
 paperurl: 'http://sim-jean.github.io/files/research/jean_mouysset2022.pdf'
 dataurl: '/data/'
-citation: 'S. Jean & L.Mouysset (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>.'
+citation: 'S. Jean & L.Mouysset (2021). &quot; International Review of Environmental and Resource Economics.&quot; <i> International Review of Environmental and Resource Economics </i>.'
 ---
 
 We provide a cartography of 319 bioeconomic models applied to terrestrial habitats by combining a quantitative analysis
