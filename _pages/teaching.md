@@ -19,8 +19,7 @@ You can find solutions to PS1 [here](https://sim-jean.github.io/files/teaching/P
 An introductory class to economics covering both micro (consumer and producer theory, partial equilibrium, market failures, regulatory policy) and macroeconomics (GDP, long term growth, inflation, international trade, inequalities)
 
 ### Industrial Economics & Competition Policy - Bachelor Grandes Ecoles Programme @ ESCP Europe
+An introductory class, focusing on imperfect competition (e.g. welfare effects, pricing strategies) and game theory (Nash equilibria, subgame and subgame perfect equilibrium) and application to oligopolies (strategic complements and substitutes, pass through, Bertrand and Cournot equilibria), with a final lecture on European competition law. 
 
 ### Introductory and Intermediate Microeconomics - Preparatory Classes D2 @ Lycée Turgot
-You can find past examples of interrogations here, as well as thematic lecture notes (including ...)
-
-### 
+Teaching assistant and examiner. You can find examples of "colles" and tutorials for both years [here](https://sim-jean.github.io/_teaching/turgot.md)
