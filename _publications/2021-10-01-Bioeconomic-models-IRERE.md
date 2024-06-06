@@ -1,7 +1,7 @@
 ---
-title: "Bioeconomic Models for Terrestrial Social Ecological System Management : A review - *International Review of Environmental and Resource Economics*"
+title: "Bioeconomic Models for Terrestrial Social Ecological System Management : A review"
 collection: publications
-permalink: /publication/2021-Bioeconomic-models-IRERE
+permalink: /publication/2021-01-01-Bioeconomic-models-IRERE
 excerpt: 'Extensive, quantitative review of bioeconomic models, exploring methodological specifications'
 date: 2021-01-01
 venue: 'International Review of Environmental and Resource Economics'
