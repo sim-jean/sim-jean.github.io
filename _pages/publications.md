@@ -30,4 +30,25 @@ Fuel treatment operations reduce wildfire spread but fragment wildlife habitats,
 
 [Article]('http://sim-jean.github.io/files/research/jean_mouysset2022.pdf') [Code](https://github.com/sim-jean/Landscape_connectivity_dilemma)
 
+**Substantial gains and little downside from farming of *Totoaba Macdonaldi* **, submitted
+
+*Lawson, Julia M. and Jean, Simon (co first authors)*; Steinkruger, Andrew; Castellanos-Rico, Miguel; Goto, Garrett M.; Cisneros-Mata, Miguel Angel; Aceves-Bueno, Erendira; Warham, Matthew M.; Sachs, Adam M.; Gaines, Steven D.
+
+Illegal wildlife trade threatens global species, with bans often failing to curb poaching. Cartel takeover of the totoaba fishery may result in drastic population decline. Conservation farming, aimed at reducing illegal poaching by supplying farmed products, requires understanding market dynamics. For totoaba, dominated by a Mexican cartel, farming could decrease poaching by 29% or increase it by 4%, depending on costs. This flexible bioeconomic model shows that conservation outcomes vary and can be adapted for other species and markets.
+
+*Article - coming soon*, *Data - coming soon*, *Code - coming soon*
+
 ## Work in Progress
+
+**Fences**
+
+Jean, Simon
+
+Spatially distributed renewable resource disperse in ecosystem. This pattern of dispersal has long been considered exogenous or strictly density dependent. In this article, I analyze how fencing changes dispersal. Focusing on a public bad (e.g. invasive species) that incurs control costs and damages, in a decentralized equilibrium, the spatial externality would result in under control. As fences solve the spatial externality, they foster more control. However, solving the spatial externality may not always be welfare maximizing. In the presence of spatial (economic and biological) heterogeneity, an optimal management pattern leverages the potential of a spatial arbitrage opportunity. Although fences solve the spatial externality, not all fencing is beneficial. 
+
+
+**The fewer the merrier? Can market access be leveraged to promote biodiversity habitat**
+
+Jean, Simon
+
+Optimal rotation in forestry economics has long been considered invariant of market structure. With a renewed approach, I show that restricting market access with fixed land concessions can change optimal rotation and the age distribution of forests. Namely, with market power, traders tend to harvest younger trees, and let a considerable amount of land populated by old growth trees, thus fostering biodiversity habitat.
