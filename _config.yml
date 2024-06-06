@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Simon Jean - PhD Candidate in Economics"
+title                    : "Simon Jean"
 title_separator          : "-"
 name                     : &name "Simon Jean"
-description              : &description "I am an economist working on spatial natural resources, conservation and wildfires"
+description              : &description "I am an economist working on spatial natural resources, ecosystem connectivity, conservation and wildfires"
 url                      : https://sim-jean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sim-jean/sim-jean.github.io"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : " "
-  pronouns         : # example: "she/her"  
-  bio              : "Parisian with a Californian experience, I use applied theory to investigate renewable resources problems including fisheries, invasive species and forestry"
+  pronouns         : 'he/him'
+  bio              : "PhD student in Environmental Economics at CIRED"
   location         : "Paris"
   employer         : "CIRED - AgroParisTech"
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=fr&user=1tP5w70AAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
