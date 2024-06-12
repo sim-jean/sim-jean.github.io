@@ -13,7 +13,7 @@ On June 8th 2024, I'm giving several immersive conferences with the Festival [La
 
 
 <br><br><br><br><br><br><br><br>
-## Les feux de forêt vont-ils brûler notre économie? - [Podcast](https://www.slate.fr/audio/splash/feux-de-foret-vont-ils-bruler-notre-economie-incendies-secheresse-156) - July 2024
+## Les feux de forêt vont-ils brûler notre économie? - [Podcast](https://www.slate.fr/audio/splash/feux-de-foret-vont-ils-bruler-notre-economie-incendies-secheresse-156) - July 2023
 
 <img align="left" src="https://sim-jean.github.io/images/splash_podcast.JPG" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
