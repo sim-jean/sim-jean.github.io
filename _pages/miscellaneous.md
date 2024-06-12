@@ -1,4 +1,4 @@
-![image](https://github.com/sim-jean/sim-jean.github.io/assets/65016684/17cc1bb4-413e-4958-ad03-3808f6148092)---
+---
 layout: archive
 title: "Miscellaneous"
 permalink: /miscellaneous/
