@@ -22,7 +22,7 @@ Here's a selection of colles, and tutorials I've taught at Lycée Turgot (in Fre
 
 * [Demand on the Cobb (Douglas)](https://sim-jean.github.io/files/teaching/1D2/cobb_douglas.pdf)
 
-* [Derivatives and a primer on MRS](https://sim-jean.github.io/files/teaching/1D2/derivees_tms.pdf)
+* [Derivatives and a primer on MRS](https://sim-jean.github.io/files/teaching/1D2/derivee_tms.pdf)
 
 * [Dual program in consumer theory](https://sim-jean.github.io/files/teaching/1D2/programme_dual.pdf)
 
