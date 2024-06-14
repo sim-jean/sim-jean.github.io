@@ -38,7 +38,7 @@ Illegal wildlife trade threatens global species, with bans often failing to curb
 
 Spatially distributed renewable resource disperse in ecosystem. This pattern of dispersal has long been considered exogenous or strictly density dependent. In this article, I analyze how fencing changes dispersal. Focusing on a public bad (e.g. invasive species) that incurs control costs and damages, in a decentralized equilibrium, the spatial externality would result in under control. As fences solve the spatial externality, they foster more control. However, solving the spatial externality may not always be welfare maximizing. In the presence of spatial (economic and biological) heterogeneity, an optimal management pattern leverages the potential of a spatial arbitrage opportunity. Although fences solve the spatial externality, not all fencing is beneficial.
 
-[Article]('http://sim-jean.github.io/files/research/fences_wp.pdf')
+[Article](http://sim-jean.github.io/files/research/fences_wp.pdf)
 
 
 **The fewer the merrier? Can market access be leveraged to promote biodiversity habitat** - Jean, Simon
