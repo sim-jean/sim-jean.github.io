@@ -20,7 +20,7 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 
 [Article](http://sim-jean.github.io/files/research/jean_mouysset2022.pdf) [Data](https://zenodo.org/records/6656433#.Yqxw7aC3seE.link) [Code](https://github.com/sim-jean/review-irere)
 
-<br><br><br><br>
+<br><br><br>
 
 
 
@@ -35,7 +35,7 @@ Fuel treatment operations reduce wildfire spread but fragment wildlife habitats,
 
 [Article](http://sim-jean.github.io/files/research/wildland-connectivity.pdf) [Code](https://github.com/sim-jean/Landscape_connectivity_dilemma) [Slides](https://sim-jean.github.io/files/research/wildland-connectivity-slides.pdf)
 
-<br><br><br><br>
+<br><br><br>
 
 **Substantial gains and little downside from farming of Totoaba Macdonaldi**, submitted - *Lawson, Julia M. and Jean, Simon (co first authors)*; Steinkruger, Andrew; Castellanos-Rico, Miguel; Goto, Garrett M.; Cisneros-Mata, Miguel Angel; Aceves-Bueno, Erendira; Warham, Matthew M.; Sachs, Adam M.; Gaines, Steven D.
 
