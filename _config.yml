@@ -21,7 +21,7 @@ repository               : "sim-jean/sim-jean.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_id.jpg"
   name             : " "
   pronouns         : 'he/him'
   bio              : "PhD student in Environmental Economics at CIRED"
