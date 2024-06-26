@@ -24,13 +24,13 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 
 Fuel treatment operations reduce wildfire spread but fragment wildlife habitats, posing a trade-off for land managers. Using dynamic programming and graph theory, we analyzed treatment allocation across landscapes, finding optimal strategies that balance wildfire risk reduction and habitat connectivity. Increased budgets reduce risk but have diminishing returns. Prioritizing treatment of central cells and varying seral stages enhances landscape diversity, mitigating risk while preserving habitat connectivity.
 
-[Article]('http://sim-jean.github.io/files/research/wildland-connectivity.pdf') [Code](https://github.com/sim-jean/Landscape_connectivity_dilemma) [Slides](https://sim-jean.github.io/files/research/wildland-connectivity-slides.pdf)
+[Article](http://sim-jean.github.io/files/research/wildland-connectivity.pdf) [Code](https://github.com/sim-jean/Landscape_connectivity_dilemma) [Slides](https://sim-jean.github.io/files/research/wildland-connectivity-slides.pdf)
 
 **Substantial gains and little downside from farming of Totoaba Macdonaldi**, submitted - *Lawson, Julia M. and Jean, Simon (co first authors)*; Steinkruger, Andrew; Castellanos-Rico, Miguel; Goto, Garrett M.; Cisneros-Mata, Miguel Angel; Aceves-Bueno, Erendira; Warham, Matthew M.; Sachs, Adam M.; Gaines, Steven D.
 
 Illegal wildlife trade threatens global species, with bans often failing to curb poaching. Cartel takeover of the totoaba fishery may result in drastic population decline. Conservation farming, aimed at reducing illegal poaching by supplying farmed products, requires understanding market dynamics. For totoaba, dominated by a Mexican cartel, farming could decrease poaching by 29% or increase it by 4%, depending on costs. This flexible bioeconomic model shows that conservation outcomes vary and can be adapted for other species and markets.
 
-*Article - coming soon*, *Data - coming soon*, *Code - coming soon*, *Slides - coming soon*
+[Article](http://sim-jean.github.io/files/research/Totoaba_Manuscript_july_2024.pdf), [Supplementary Materials](http://sim-jean.github.io/files/research/totoaba_final_sup.pdf) [Code](https://github.com/julawson/conservation_farming_totoaba), [Slides](http://sim-jean.github.io/files/research/totoaba_presentation_july_2024.pdf)
 
 ## Work in Progress
 
