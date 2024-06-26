@@ -20,7 +20,7 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 
 [Article](http://sim-jean.github.io/files/research/jean_mouysset2022.pdf) [Data](https://zenodo.org/records/6656433#.Yqxw7aC3seE.link) [Code](https://github.com/sim-jean/review-irere)
 
-<br><br><br><be>
+<br><br><br><br>
 
 
 
@@ -45,6 +45,7 @@ Fuel treatment operations reduce wildfire spread but fragment wildlife habitats,
 Illegal wildlife trade threatens global species, with bans often failing to curb poaching. Cartel takeover of the totoaba fishery may result in drastic population decline. Conservation farming, aimed at reducing illegal poaching by supplying farmed products, requires understanding market dynamics. For totoaba, dominated by a Mexican cartel, farming could decrease poaching by 29% or increase it by 4%, depending on costs. This flexible bioeconomic model shows that conservation outcomes vary and can be adapted for other species and markets.
 
 [Article](http://sim-jean.github.io/files/research/Totoaba_Manuscript_july_2024.pdf), [Supplementary Materials](http://sim-jean.github.io/files/research/totoaba_final_sup.pdf) [Code](https://github.com/julawson/conservation_farming_totoaba), [Slides](http://sim-jean.github.io/files/research/totoaba_presentation_july_2024.pdf)
+<br><br>
 
 ## Work in Progress
 
