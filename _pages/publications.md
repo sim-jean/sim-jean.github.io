@@ -13,7 +13,7 @@ author_profile: true
 
 **Bioeconomic Models for Terrestrial Social Ecological System Management : A review**, *International Review of Environmental and Resource Economics*, 2021 - Jean, Simon and Mouysset, Lauriane
 
-<img align="left" src="https://sim-jean.github.io/images/mca_ind_automated_kmodes.jpg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="left" src="https://sim-jean.github.io/images/mca_ind_automated_kmodes.jpg" alt="Photo" style="width: 350px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 
 We analyze 319 bioeconomic models for terrestrial habitats, organized into four groups via multiple correspondence analysis and clustering. Two focus on conservation: one on cost-effective species preservation without monetization, the other on habitat-based measures in agriculture and forestry. The other two address biodiversity monetization and harvesting, including endangered and invasive species.
@@ -28,7 +28,7 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 
 **The wildland connectivity dilemma : a graph theoretical computational approach** - Jean, Simon and Mouysset, Lauriane
 
-<img align="right" src="https://sim-jean.github.io/images/landscapes_4.png" alt="Photo" style="width: 225px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://sim-jean.github.io/images/landscapes_4.png" alt="Photo" style="width: 250px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 
 Fuel treatment operations reduce wildfire spread but fragment wildlife habitats, posing a trade-off for land managers. Using dynamic programming and graph theory, we analyzed treatment allocation across landscapes, finding optimal strategies that balance wildfire risk reduction and habitat connectivity. Increased budgets reduce risk but have diminishing returns. Prioritizing treatment of central cells and varying seral stages enhances landscape diversity, mitigating risk while preserving habitat connectivity.
