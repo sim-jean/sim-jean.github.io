@@ -26,7 +26,7 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 
 **The wildland connectivity dilemma : a graph theoretical computational approach** - Jean, Simon and Mouysset, Lauriane
 
-<img align="right" src="https://sim-jean.github.io/images/landscapes_4.png" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://sim-jean.github.io/images/landscapes_4.png" alt="Photo" style="width: 225px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 
 Fuel treatment operations reduce wildfire spread but fragment wildlife habitats, posing a trade-off for land managers. Using dynamic programming and graph theory, we analyzed treatment allocation across landscapes, finding optimal strategies that balance wildfire risk reduction and habitat connectivity. Increased budgets reduce risk but have diminishing returns. Prioritizing treatment of central cells and varying seral stages enhances landscape diversity, mitigating risk while preserving habitat connectivity.
