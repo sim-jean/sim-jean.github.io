@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellaneous"
+title: "Outreach"
 permalink: /miscellaneous/
 author_profile: true
 ---

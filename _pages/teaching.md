@@ -22,4 +22,7 @@ An introductory class to economics covering both micro (consumer and producer th
 An introductory class, focusing on imperfect competition (e.g. welfare effects, pricing strategies) and game theory (Nash equilibria, subgame and subgame perfect equilibrium) and application to oligopolies (strategic complements and substitutes, pass through, Bertrand and Cournot equilibria), with a final lecture on European competition law. 
 
 ### [Introductory and Intermediate Microeconomics - Preparatory Classes D2 @ Lycée Turgot](/teaching/turgot/)
-Teaching assistant and examiner. You can find examples of "colles" and tutorials for first and second year. 
+Teaching assistant and examiner in [CPGE ENS D2](https://fr.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_ENS_Cachan_D2). You can find examples of "colles" and tutorials for first and second year.
+
+### Public Economics - Université de Paris 
+Introduction to Public Economics for students in 2nd and 3rd year of the Bachelor of Economics, covering consumer and producer theory, introduction to general equilibrium, market failures and policies.
