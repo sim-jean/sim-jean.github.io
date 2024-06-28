@@ -33,7 +33,7 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 
 Fuel treatment operations reduce wildfire spread but fragment wildlife habitats, posing a trade-off for land managers. Using dynamic programming and graph theory, we analyzed treatment allocation across landscapes, finding optimal strategies that balance wildfire risk reduction and habitat connectivity. Increased budgets reduce risk but have diminishing returns. Prioritizing treatment of central cells and varying seral stages enhances landscape diversity, mitigating risk while preserving habitat connectivity.
 
-[Article](http://sim-jean.github.io/files/research/widland_connectivity.pdf) [Code](https://github.com/sim-jean/Landscape_connectivity_dilemma) [Slides](https://sim-jean.github.io/files/research/wildland-connectivity-slides.pdf)
+[Article](http://sim-jean.github.io/files/research/widlland_connectivity.pdf) [Code](https://github.com/sim-jean/Landscape_connectivity_dilemma) [Slides](https://sim-jean.github.io/files/research/wildland-connectivity-slides.pdf)
 
 <br><br><br>
 
