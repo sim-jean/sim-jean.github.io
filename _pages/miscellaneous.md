@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-## Y'a pas de forêt sans feux - There's no fire without a forest - June 2024
+## Y'a pas de forêt sans feux - There's no forest without a fire - June 2024
 
 <img align="right" src="https://sim-jean.github.io/files/nuit_des_forets.png" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
