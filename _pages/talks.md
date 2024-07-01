@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * 2024 :   
-  * EAERE 2024 (Leuven, Belgium - *scheduled*)   
+  * EAERE 2024 (Leuven, Belgium)   
   * Paris-Saclay Conference on Trade and Environment (AgroParisTech, Palaiseau)
   * Parisian PhD Seminar in Environmental Economics (CIRED)
   * CIRED PhD Seminar
