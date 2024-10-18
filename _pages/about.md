@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am an 1-year assistant professor at [AgroParisTech](https://www.agroparistech.fr/) of biodiversity and conservation economics.
+I am an assistant professor at [AgroParisTech](https://www.agroparistech.fr/) of biodiversity and conservation economics.
 
 I am finalizing my PhD in Environmental Economics at [CIRED](https://www.centre-cired.fr/en/), under the supervision of [Dr. Lauriane Mouysset](https://laurianemouysset.wordpress.com/) and [Dr. Christopher Costello](http://www.christopherjcostello.com/). My research mixes ecology and economics to study how to best manage natural renewable resources in multiple ecosystems. One strand of my research investigates how to manage landscape connectivity, and a second strand investigates how market power affects the fate of natural resources. My current research investigates how fences can be used to solve the tragedy of the commons in non cooperative settings, but may fail to maximize landscape level welfare. 
 
