@@ -28,5 +28,8 @@ Teaching assistant and examiner in [CPGE ENS D2](https://fr.wikipedia.org/wiki/C
 Introduction to Public Economics for students in 2nd and 3rd year of the Bachelor of Economics, covering consumer and producer theory, introduction to general equilibrium, market failures and policies.
 
 ## [AgroParisTech](/teaching/agro)
+
+I have started developing classes for the Engineering Degree at AgroParisTech as well as the [Master EEET of Université Paris Saclay, Université Paris Nanterre, Ecole des Ponts/Institut Polytechnique de Paris and IFP School](https://www.master-eeet.fr/). I've used the [`clean`](https://github.com/grantmcdermott/quarto-revealjs-clean) template developed by [Grant McDermott](https://grantmcdermott.com/) and [Kyle Butts](https://www.kylebutts.com/).
+
 ### [Cursus ingénieur - 2e année](/teaching/agro/2A)
 
