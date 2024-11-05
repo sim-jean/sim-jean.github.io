@@ -11,3 +11,7 @@ author_profile: true
 ## UC1 - Analyse économique
 
 [Concurrence Imparfaite 2 : les oligopoles](https://github.com/sim-jean/classes_agroparistech/blob/main/tutorial_game_theory.html)
+
+[Concurrence Imparfaite 3 : la politique de la concurrence](https://github.com/sim-jean/classes_agroparistech/blob/main/tutorial_game_theory.html)
+
+[TD : théorie des jeux et politique industrielle](https://github.com/sim-jean/classes_agroparistech/blob/main/tutorial_game_theory.html)
