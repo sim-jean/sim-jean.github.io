@@ -14,6 +14,6 @@ author_profile: true
 
 [Concurrence Imparfaite 2 : les oligopoles](https://sim-jean.github.io/files/teaching/agro/2A/oligopoles.html)
 
-[Concurrence Imparfaite 3 : la politique de la concurrence](https://github.com/sim-jean/classes_agroparistech/blob/main/politique_concurrence.html)
+[Concurrence Imparfaite 3 : la politique de la concurrence](https://sim-jean.github.io/files/teaching/agro/2A/politique_concurrence.html)
 
-[TD : théorie des jeux et politique industrielle](https://github.com/sim-jean/classes_agroparistech/blob/main/tutorial_game_theory.html)
+[TD : théorie des jeux et politique industrielle](https://sim-jean.github.io/files/teaching/agro/2A/tutorial_game_theory.html)
