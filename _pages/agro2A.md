@@ -17,3 +17,7 @@ author_profile: true
 [Concurrence Imparfaite 3 : la politique de la concurrence](https://sim-jean.github.io/files/teaching/agro/2A/politique_concurrence.html)
 
 [TD : théorie des jeux et politique industrielle](https://sim-jean.github.io/files/teaching/agro/2A/tutorial_game_theory.html)
+
+[Externalités et biens publics](https://sim-jean.github.io/files/teaching/agro/2A/externalités.html)
+
+[Atelier débat : faut il monétariser la biodiversité?](https://sim-jean.github.io/files/teaching/agro/2A/atelier_débat.pdf)
