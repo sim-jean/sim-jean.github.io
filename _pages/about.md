@@ -11,7 +11,7 @@ Welcome to my personal website!
 
 I am an assistant professor of biodiversity and conservation economics at [AgroParisTech](https://www.agroparistech.fr/)
 
-I received my PhD in Economics from University Paris Saclay in November 2024. I realized at [CIRED](https://www.centre-cired.fr/en/), under the supervision of [Dr. Lauriane Mouysset](https://laurianemouysset.wordpress.com/) and [Dr. Christopher Costello](http://www.christopherjcostello.com/). 
+I received my PhD in Economics from University Paris Saclay in November 2024. I realized it at [CIRED](https://www.centre-cired.fr/en/), under the supervision of [Dr. Lauriane Mouysset](https://laurianemouysset.wordpress.com/) and [Dr. Christopher Costello](http://www.christopherjcostello.com/). 
 
 My research mixes ecology and economics to study how to best manage natural renewable resources in multiple ecosystems. One strand of my research investigates how to manage landscape connectivity, and a second strand investigates how market power affects the fate of natural resources. My current research investigates how connectivity changing devices can be used to solve the tragedy of the commons in non cooperative settings, but may fail to maximize landscape level welfare. 
 
