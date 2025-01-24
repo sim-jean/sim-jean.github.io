@@ -8,4 +8,4 @@ author_profile: true
 
 ## UE - Economie des politiques agricoles, alimentaires, et environnementales
 
-[Coûts sociaux des pesticides](http://sim-jean.github.io/teaching/agro/1A/pollinisateurs.html) 
+[Coûts sociaux des pesticides](https://sim-jean.github.io/files/teaching/agro/1A/pollinisateurs.html) 
