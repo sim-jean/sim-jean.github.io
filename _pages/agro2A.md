@@ -8,7 +8,7 @@ author_profile: true
 
 ## UC - EESE
 
-[Cours du 18 octobre 2024 - Modèles bioéconomiques](https://sim-jean.github.io/files/teaching/agro/2A/Modèles bioéconomiques.pdf)
+[Introduction aux modèles bioéconomiques](https://sim-jean.github.io/files/teaching/agro/2A/Modèles bioéconomiques.pdf)
 
 ## UC1 - Analyse économique
 
