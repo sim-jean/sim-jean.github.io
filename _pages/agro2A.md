@@ -25,6 +25,7 @@ author_profile: true
 ## UC3 - Economie de l'Environnement et des Ressources Naturelles
 
 [Economie des ressources renouvelables](https://sim-jean.github.io/files/teaching/agro/2A/M1_EERN_1.html)
+
 [Evaluation des biens environnementaux](https://sim-jean.github.io/files/teaching/agro/2A/évaluation_biens_environnementaux.html)
 
 ## UC4 - Macroéconomie
