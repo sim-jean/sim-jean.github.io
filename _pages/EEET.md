@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AgroParisTech - 2e année"
+title: "Master EEET"
 permalink: /teaching/EEET
 layout: archive
 author_profile: true
