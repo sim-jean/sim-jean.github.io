@@ -6,7 +6,7 @@ layout: archive
 author_profile: true
 ---
 
-# Economie écologique
+## Economie écologique
 
 Vous trouverez ici les cours dispensés lors du master 1 EEET pour l'année 2024-2025 :
 
