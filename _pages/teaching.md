@@ -31,7 +31,7 @@ Teaching assistant and examiner in [CPGE ENS D2](https://fr.wikipedia.org/wiki/C
 ### Public Economics - Université de Paris 
 Introduction to Public Economics for students in 2nd and 3rd year of the Bachelor of Economics, covering consumer and producer theory, introduction to general equilibrium, market failures and policies.
 
-## [AgroParisTech](/teaching/agro)
+## AgroParisTech
 
 These classes cover introductory and intermediate level classes regarding microeconomics (imperfect competition, externalities and public goods), macroeconomics (coming soon), environmental and ressource economics (valuation, bioeconomic modeling) and ecological economics (metabolism, post-growth, PES, institutions)
 
