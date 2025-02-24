@@ -21,3 +21,16 @@ author_profile: true
 [Externalités et biens publics](https://sim-jean.github.io/files/teaching/agro/2A/externalités.html)
 
 [Atelier débat : faut il monétariser la biodiversité?](https://sim-jean.github.io/files/teaching/agro/2A/atelier_débat.pdf)
+
+## UC3 - Economie de l'Environnement et des Ressources Naturelles
+
+[Economie des ressources renouvelables](https://sim-jean.github.io/files/teaching/agro/2A/M1_EERN_1.html)
+[Evaluation des biens environnementaux](https://sim-jean.github.io/files/teaching/agro/2A/évaluation_biens_environnementaux.html)
+
+## UC4 - Macroéconomie
+
+**TBD**
+
+## UC5 - Economie écologique
+
+**Syllabus**

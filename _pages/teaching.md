@@ -14,6 +14,10 @@ I was a TA for [Pr. Junnan He](https://junnanhe.weebly.com/) for this introducto
 
 You can find solutions to PS1 [here](https://sim-jean.github.io/files/teaching/PSIA_Metrics_HW2.pdf)
 
+### [Ecological Economics](/teaching/economoie_ecologique)
+
+This class is designed for M1 students (both @AgroParisTech and in Master 1 EEET), 24h modules
+
 ## Undergraduate
 ### The Economy - 1st year @ Sciences Po Paris, campus de Reims
 An introductory class to economics covering both micro (consumer and producer theory, partial equilibrium, market failures, regulatory policy) and macroeconomics (GDP, long term growth, inflation, international trade, inequalities)
@@ -29,10 +33,15 @@ Introduction to Public Economics for students in 2nd and 3rd year of the Bachelo
 
 ## [AgroParisTech](/teaching/agro)
 
+These classes cover introductory and intermediate level classes regarding microeconomics (imperfect competition, externalities and public goods), macroeconomics (coming soon), environmental and ressource economics (valuation, bioeconomic modeling) and ecological economics (metabolism, post-growth, PES, institutions)
 
-I have started developing classes for the Engineering Degree at AgroParisTech as well as the [Master EEET of Université Paris Saclay, Université Paris Nanterre, Ecole des Ponts/Institut Polytechnique de Paris and IFP School](https://www.master-eeet.fr/). I've used the [`clean`](https://github.com/grantmcdermott/quarto-revealjs-clean) template developed by [Grant McDermott](https://grantmcdermott.com/) and [Kyle Butts](https://www.kylebutts.com/).
 
 ### [Cursus ingénieur - 1e année](/teaching/agro/1A)
 
 ### [Cursus ingénieur - 2e année](/teaching/agro/2A)
+
+## [Master EEET](/teaching/EEET)
+
+I am coordinating the class on Ecological Economics in the [Master EEET of Université Paris Saclay, Université Paris Nanterre, Ecole des Ponts/Institut Polytechnique de Paris and IFP School](https://www.master-eeet.fr/). 
+I've used the [`clean`](https://github.com/grantmcdermott/quarto-revealjs-clean) template developed by [Grant McDermott](https://grantmcdermott.com/) and [Kyle Butts](https://www.kylebutts.com/).
 
