@@ -22,9 +22,9 @@ Course materials are available [here](/teaching/EEET)
 These classes cover introductory and intermediate level classes regarding microeconomics (imperfect competition, externalities and public goods), macroeconomics (coming soon), environmental and ressource economics (valuation, bioeconomic modeling) and ecological economics (metabolism, post-growth, PES, institutions)
 
 
-### [Cursus ingénieur - 1e année](/teaching/agro/1A)
+#### [Cursus ingénieur - 1e année](/teaching/agro/1A)
 
-### [Cursus ingénieur - 2e année](/teaching/agro/2A)
+#### [Cursus ingénieur - 2e année](/teaching/agro/2A)
 
 ### Master Economie Internationale - Université Paris I Panthéon Sorbonne
 
