@@ -24,7 +24,7 @@ These classes cover introductory and intermediate level classes regarding microe
 
 #### [Cursus ingénieur - 1e année](/teaching/agro/1A)
 
-#### [Cursus ingénieur - 2e année](/teaching/agro/2A)
+#### [Cursus ingénieur - 2e année](/teaching/agro/2A) 
 
 ### Master Economie Internationale - Université Paris I Panthéon Sorbonne
 
