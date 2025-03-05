@@ -28,7 +28,7 @@ These classes cover introductory and intermediate level classes regarding microe
 
 ### Master Economie Internationale - Université Paris I Panthéon Sorbonne
 
-You can find slides for the lecture on [Biodiversity Conservation]((https://sim-jean.github.io/files/teaching/other/M1_Eco_Inter_Paris1_Biodiversity_Conservation.html) as part of the *Topics in Environmental Economics* class
+You can find slides for the lecture on [Biodiversity Conservation](https://sim-jean.github.io/files/teaching/other/M1_Eco_Inter_Paris1_Biodiversity_Conservation.html) as part of the *Topics in Environmental Economics* class
 
 
 ## Past
