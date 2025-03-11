@@ -28,10 +28,10 @@ author_profile: true
 
 [Evaluation des biens environnementaux](https://sim-jean.github.io/files/teaching/agro/2A/évaluation_biens_environnementaux.html)
 
-## UC4 - Macroéconomie
+## UC5 - Macroéconomie
 
-**TBD**
+[Macroéconomie internationale](https://sim-jean.github.io/files/teaching/agro/2A/international_macro.html)
 
-## UC5 - Economie écologique
+## UC6 - Economie écologique
 
 **Syllabus**
