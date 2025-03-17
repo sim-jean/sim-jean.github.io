@@ -10,6 +10,8 @@ redirect_from:
 
 I've used the [`clean`](https://github.com/grantmcdermott/quarto-revealjs-clean) template developed by [Grant McDermott](https://grantmcdermott.com/) and [Kyle Butts](https://www.kylebutts.com/), and slightly modified it. Thankful for their contribution!
 
+Past classes are password protected : reach out if you need the password, I'm happy to share any and all material!
+
 ## Current
 
 ### Master EEET - 2025 onwards
