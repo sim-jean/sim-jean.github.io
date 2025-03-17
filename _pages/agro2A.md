@@ -35,8 +35,13 @@ author_profile: true
 ## UC6 - Economie écologique
 
 [Introduction](https://sim-jean.github.io/files/teaching/agro/2A/UC6_Introduction.html)
+
 [Le métabolisme social](https://sim-jean.github.io/files/teaching/agro/2A/UC6_Metabolisme.html)
+
 [Vers une macroéconomie écologique](https://sim-jean.github.io/files/teaching/agro/2A/UC6_Macroéconomie.html)
+
 [Conservation de la biodiversité](https://sim-jean.github.io/files/teaching/agro/2A/UC6_Biodiversité.html)
-**Institutions**
+
+**Institutions & transitions : des dilemmes sociaux aux dynamiques historiques**
+
 **Perspectives féministes et décoloniales**
