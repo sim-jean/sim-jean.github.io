@@ -34,6 +34,7 @@ author_profile: true
 
 ## UC6 - Economie écologique
 
+
 [Introduction](https://sim-jean.github.io/files/teaching/agro/2A/UC6_Introduction.html)
 
 [Le métabolisme social](https://sim-jean.github.io/files/teaching/agro/2A/UC6_Metabolisme.html)
