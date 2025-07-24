@@ -22,6 +22,17 @@ We analyze 319 bioeconomic models for terrestrial habitats, organized into four 
 
 <br><br><br>
 
+**Substantial gains and little downside from farming of Totoaba Macdonaldi**, *Lawson, Julia M. and Jean, Simon (co first authors)*; Steinkruger, Andrew; Castellanos-Rico, Miguel; Goto, Garrett M.; Cisneros-Mata, Miguel Angel; Aceves-Bueno, Erendira; Warham, Matthew M.; Sachs, Adam M.; Gaines, Steven D., *NPJ Ocean Sustainability*, 2025
+
+<img align="left" src="https://sim-jean.github.io/images/toto_caught.jpg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+
+
+Illegal wildlife trade threatens global species, with bans often failing to curb poaching. Cartel takeover of the totoaba fishery may result in drastic population decline. Conservation farming, aimed at reducing illegal poaching by supplying farmed products, requires understanding market dynamics. For totoaba, dominated by a Mexican cartel, farming could decrease poaching by 29% or increase it by 4%, depending on costs. This flexible bioeconomic model shows that conservation outcomes vary and can be adapted for other species and markets.
+
+[Article](https://www.nature.com/articles/s44183-025-00143-4.epdf?sharing_token=N5o4e2_gJ6sqFd_4jdmdcNRgN0jAjWel9jnR3ZoTv0P3JXVSF4AQm9OMb4bA7CyIxxomIiKAr4vNrXV7Uqpv3d7q94KpE86oR1keisUu70Vn7ygWPl_Ar9mHpsQ5cD48KnKwI0hz4YSH6fushgyUZoWYJTAMS8gxS34SCu7yn6I%3D)
+<!-- [Article](http://sim-jean.github.io/files/research/Totoaba_Manuscript_july_2024.pdf), [Supplementary Materials](http://sim-jean.github.io/files/research/totoaba_final_sup.pdf) [Code](https://github.com/julawson/conservation_farming_totoaba), [Slides](http://sim-jean.github.io/files/research/totoaba_presentation_july_2024.pdf) -->
+
+<br><br>
 
 
 ## Working Papers
@@ -37,16 +48,7 @@ Fuel treatment operations reduce wildfire spread but fragment wildlife habitats,
 
 <br><br><br>
 
-**Substantial gains and little downside from farming of Totoaba Macdonaldi**, submitted - *Lawson, Julia M. and Jean, Simon (co first authors)*; Steinkruger, Andrew; Castellanos-Rico, Miguel; Goto, Garrett M.; Cisneros-Mata, Miguel Angel; Aceves-Bueno, Erendira; Warham, Matthew M.; Sachs, Adam M.; Gaines, Steven D.
 
-<img align="left" src="https://sim-jean.github.io/images/toto_caught.jpg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-
-
-Illegal wildlife trade threatens global species, with bans often failing to curb poaching. Cartel takeover of the totoaba fishery may result in drastic population decline. Conservation farming, aimed at reducing illegal poaching by supplying farmed products, requires understanding market dynamics. For totoaba, dominated by a Mexican cartel, farming could decrease poaching by 29% or increase it by 4%, depending on costs. This flexible bioeconomic model shows that conservation outcomes vary and can be adapted for other species and markets.
-
-<!-- [Article](http://sim-jean.github.io/files/research/Totoaba_Manuscript_july_2024.pdf), [Supplementary Materials](http://sim-jean.github.io/files/research/totoaba_final_sup.pdf) [Code](https://github.com/julawson/conservation_farming_totoaba), [Slides](http://sim-jean.github.io/files/research/totoaba_presentation_july_2024.pdf) -->
-
-<br><br>
 
 ## Work in Progress
 
